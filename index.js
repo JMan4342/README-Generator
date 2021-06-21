@@ -1,6 +1,6 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
-fs.readFile("generateMarkdowns.js");
+const generateMarkdowns = require("./generateMarkdowns");
 
 // TODO: Include packages needed for this application
 
@@ -31,6 +31,16 @@ inquirer
     },
     {
       type: "input",
+      message: "What is the URL to your GitHub?",
+      name: "githubLink",
+    },
+    {
+      type: "input",
+      message: "What is the URL of the GitHub repository for your project?",
+      name: "repoLink",
+    },
+    {
+      type: "input",
       message: "What is your email address?",
       name: "email",
     },
@@ -46,9 +56,21 @@ inquirer
     },
     {
       type: "list",
-      message: "What kind of license shoudl your project have?",
+      message: "What kind of license should your project have?",
       name: "license",
       choices: ["MIT", "APACHE 2.0", "GPL 3.0", "BSD 3", "None"],
+    },
+    {
+      type: "list",
+      message: "What kind of license should your project have?",
+      name: "badge",
+      choices: [
+        "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)",
+        "[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)",
+        "[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)",
+        "[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)",
+        "None",
+      ],
     },
     {
       type: "input",
@@ -73,7 +95,7 @@ inquirer
     },
   ])
   .then(function (user) {
-    fs.writeFile("README.md", generateMarkdown(user), function (err) {
+    fs.writeFile("README.md", generateMarkdowns(user), function (err) {
       console.log("User:", user);
     });
   });

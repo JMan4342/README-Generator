@@ -1,38 +1,46 @@
-# README-Generator
-![GitHub license]
 
-## Description
+  # README
+  
+  ## [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-## Table of Contents
+  ## Description
+  Auto generate a README file
 
-* [Installation](#installation)
+  ## Table of Contents
 
-* [Usage](#usagae)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [Testing](#testing)
+  - [License](#license)
 
-* [License](#license)
+  ## Installation
+  npm i
+  
+  ## Usage
+  It is cool.
 
-* [Contributing](#contribution)
+  ## Contributing
+  when contributing to the repo be sure to clone from the main.
 
-* [Test](#tests)
+  You can find the project at fjieii.
+  
+  ## Testing
+  
+  ## License
+  APACHE 2.0
+  
+  ## Questions
+  If you have any questions, I can be reached on my GitHub at [Jman](github.com).
 
-* [Questions](#questions)
+  You can also reach me by email at jicliela.
+  
 
-## Intallation
 
-To install necessary dependencies, run the following command:
 
-...
 
-...
 
-## Usage
 
-## License
 
-## Contributing
 
-## Tests
 
-## Questions
-
-If you have any questions about the repo, open an issue or contact me directly at (email address). You can find more of my work at [GitHub username](GitHub link).
