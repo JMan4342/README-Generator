@@ -1,10 +1,10 @@
 
-  # README
+  # keieidk
   
-  ## [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  Auto generate a README file
+  kdkdidi
 
   ## Table of Contents
 
@@ -15,25 +15,26 @@
   - [License](#license)
 
   ## Installation
-  npm i
+  kdididi
   
   ## Usage
-  It is cool.
+  kdkdii
 
   ## Contributing
-  when contributing to the repo be sure to clone from the main.
+  kdkdi
 
-  You can find the project at fjieii.
+  You can find the project at kdkdiei.
   
   ## Testing
+  Below you will find screenshots and a video showing the application in action.
   
   ## License
-  APACHE 2.0
+  MIT
   
   ## Questions
-  If you have any questions, I can be reached on my GitHub at [Jman](github.com).
+  If you have any questions, I can be reached on my GitHub at [ieididi](kdkeiei).
 
-  You can also reach me by email at jicliela.
+  You can also reach me by email at kdieiei.
   
 
 
