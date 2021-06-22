@@ -1,10 +1,11 @@
 
-  # keieidk
+  # README Generator
   
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
 
   ## Description
-  kdkdidi
+  This project will allow the user to quickly generate a README file to accompany their projects allowing them to spend more time on their project.
+
 
   ## Table of Contents
 
@@ -14,27 +15,35 @@
   - [Testing](#testing)
   - [License](#license)
 
+
   ## Installation
-  kdididi
+  No dependancies needed to download.
   
+
   ## Usage
-  kdkdii
+  The repo is used in the terminal and is activated by entering the command node index.js
+
 
   ## Contributing
-  kdkdi
+  If you are looking to contribute to the README generator, you can fork the repository from its GitHub page.
 
-  You can find the project at kdkdiei.
+  You can find the project at https://github.com/JMan4342/README-Generator.
   
+
   ## Testing
-  Below you will find screenshots and a video showing the application in action.
+  Below you will find a link to a video showing the application in action.
   
+  https://drive.google.com/file/d/1UJ8K4KzkvA6oh18ZSwHA8TvmQgtP3296/view
+  
+
   ## License
-  MIT
+  None
+  
   
   ## Questions
-  If you have any questions, I can be reached on my GitHub at [ieididi](kdkeiei).
+  If you have any questions, I can be reached on my GitHub at [JMan4342](https://github.com/JMan4342).
 
-  You can also reach me by email at kdieiei.
+  You can also reach me by email at manning.joseph.4342@gmail.com.
   
 
 
