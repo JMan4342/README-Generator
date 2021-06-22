@@ -32,12 +32,18 @@
 
   ## Testing
   Below you will find a link to a video showing the application in action.
-  
+
   https://drive.google.com/file/d/1UJ8K4KzkvA6oh18ZSwHA8TvmQgtP3296/view
   
 
   ## License
   None
+
+
+  ## Resources
+  I used the following resources when creating this project.
+  
+  * https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
   
   
   ## Questions
